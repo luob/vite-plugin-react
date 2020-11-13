@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-react",
+  "name": "@luob/vite-plugin-react",
   "version": "3.0.2",
   "description": "React fast refresh plugin for Vite",
   "main": "dist/index.js",
@@ -16,16 +16,16 @@
     "react",
     "hmr"
   ],
-  "author": "Evan You",
+  "author": "Jiang Yan",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitejs/vite-plugin-react.git"
+    "url": "git+https://github.com/luob/vite-plugin-react.git"
   },
   "bugs": {
-    "url": "https://github.com/vitejs/vite-plugin-react/issues"
+    "url": "https://github.com/luob/vite-plugin-react/issues"
   },
-  "homepage": "https://github.com/vitejs/vite-plugin-react/tree/master/#readme",
+  "homepage": "https://github.com/luob/vite-plugin-react/tree/master/#readme",
   "dependencies": {
     "@babel/core": "^7.9.6",
     "@babel/plugin-syntax-import-meta": "^7.10.4",
